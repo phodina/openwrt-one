@@ -1,0 +1,317 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "bcf22526-2d76-4559-b317-d75f9e8664c9")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 118.745 93.98)
+		(size 31.75 40.64)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2c4f301c-778e-4839-8504-8acfdbd4f834")
+		(property "Sheetname" "M2 KEYM mikroBUS EEPROM RTC"
+			(at 118.745 93.2684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "07_M2_KEYM_mikroBUS_EEPROM_RTC.kicad_sch"
+			(at 118.745 135.2046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "OpenWrt_ONE"
+				(path "/bcf22526-2d76-4559-b317-d75f9e8664c9"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 32.385 93.345)
+		(size 29.845 40.005)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "30012752-797c-4a4f-9762-df9b4b2170e8")
+		(property "Sheetname" "MT7976C DBDC"
+			(at 32.385 92.6334 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "05_MT7976C_DBDC.kicad_sch"
+			(at 32.385 133.9346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "OpenWrt_ONE"
+				(path "/bcf22526-2d76-4559-b317-d75f9e8664c9"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 35.56 153.67)
+		(size 41.91 29.845)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "68789ce7-aab0-4007-910e-814a8c7dac8a")
+		(property "Sheetname" "Block Diagram"
+			(at 35.56 152.9584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "08_Block_Diagram.kicad_sch"
+			(at 35.56 184.0996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "OpenWrt_ONE"
+				(path "/bcf22526-2d76-4559-b317-d75f9e8664c9"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 119.38 34.29)
+		(size 31.115 48.26)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6b6b3bb7-9daf-4024-b17f-9644129d9d09")
+		(property "Sheetname" "MT7981 PCIe USB GPHY"
+			(at 119.38 33.5784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "03_MT7981_PCIe_USB_GPHY.kicad_sch"
+			(at 119.38 83.1346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "OpenWrt_ONE"
+				(path "/bcf22526-2d76-4559-b317-d75f9e8664c9"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 32.385 34.29)
+		(size 30.48 46.99)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7ed4404f-24d3-4cf7-b5f3-499b561d47bd")
+		(property "Sheetname" "MT7981_DDR4"
+			(at 32.385 33.5784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "01_MT7981_DDR4.kicad_sch"
+			(at 32.385 81.8646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "OpenWrt_ONE"
+				(path "/bcf22526-2d76-4559-b317-d75f9e8664c9"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 164.465 34.925)
+		(size 33.02 47.625)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "805d00f9-5815-4365-999b-efe2ed9ce289")
+		(property "Sheetname" "Power External USB"
+			(at 164.465 34.2134 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "04_Power_External_USB.kicad_sch"
+			(at 164.465 83.1346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "OpenWrt_ONE"
+				(path "/bcf22526-2d76-4559-b317-d75f9e8664c9"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.835 33.655)
+		(size 29.21 48.26)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "963f0628-3722-499e-b243-a3c227bb97e3")
+		(property "Sheetname" "MT7981 Power"
+			(at 76.835 32.9434 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "02_MT7981_Power_AFE.kicad_sch"
+			(at 76.835 82.4996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "OpenWrt_ONE"
+				(path "/bcf22526-2d76-4559-b317-d75f9e8664c9"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 93.98)
+		(size 29.21 40.005)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b8f1d6b9-ba47-4b41-92ce-cd9115750e28")
+		(property "Sheetname" "Airoha EN8811 2.5GPHY"
+			(at 76.2 93.2684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "06_Airoha_EN8811_2.5GPHY.kicad_sch"
+			(at 76.2 134.5696 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "OpenWrt_ONE"
+				(path "/bcf22526-2d76-4559-b317-d75f9e8664c9"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
